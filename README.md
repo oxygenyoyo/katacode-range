@@ -1,0 +1,2 @@
+# katacode-range
+test range
